@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jionbiju&label=Profile%20views&color=0e75b6&style=flat" alt="jionbiju" /> </p>
 
-- 🔭 I’m currently working on **Coding skills**
+- 🔭 I’m currently working on **Flutter**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
